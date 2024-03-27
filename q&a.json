@@ -1,0 +1,384 @@
+[
+    {
+      "topic": "history",
+      "question": "When did World War II end?",
+      "answer": "World War II ended in 1945."
+    },
+    {
+      "topic": "geography",
+      "question": "What is the capital of France?",
+      "answer": "The capital of France is Paris."
+    },
+    {
+      "topic": "math",
+      "question": "What is the value of pi (π)?",
+      "answer": "The value of pi (π) is approximately 3.14159."
+    },
+    {
+      "topic": "physics",
+      "question": "What is the unit of measurement for force?",
+      "answer": "The unit of measurement for force is the Newton (N)."
+    },
+    {
+      "topic": "history",
+      "question": "Who was the first President of the United States?",
+      "answer": "The first President of the United States was George Washington."
+    },
+    {
+      "topic": "geography",
+      "question": "What is the longest river in the world?",
+      "answer": "The longest river in the world is the Nile River."
+    },
+    {
+      "topic": "math",
+      "question": "What is the formula for the area of a circle?",
+      "answer": "The formula for the area of a circle is A = πr^2, where r is the radius of the circle."
+    },
+    {
+      "topic": "physics",
+      "question": "What is the speed of light?",
+      "answer": "The speed of light in a vacuum is approximately 299,792 kilometers per second (km/s)."
+    },
+    {
+      "topic": "history",
+      "question": "When was the Declaration of Independence signed?",
+      "answer": "The Declaration of Independence was signed on July 4, 1776."
+    },
+    {
+      "topic": "geography",
+      "question": "What is the largest desert in the world?",
+      "answer": "The largest desert in the world is the Sahara Desert."
+    },
+    {
+      "topic": "math",
+      "question": "What is the Pythagorean theorem?",
+      "answer": "The Pythagorean theorem states that in a right-angled triangle, the square of the length of the hypotenuse is equal to the sum of the squares of the lengths of the other two sides."
+    },
+    {
+      "topic": "physics",
+      "question": "What is Newton's first law of motion?",
+      "answer": "Newton's first law of motion, also known as the law of inertia, states that an object will remain at rest or in uniform motion in a straight line unless acted upon by an external force."
+    },
+    {
+      "topic": "history",
+      "question": "Who was the first emperor of Rome?",
+      "answer": "The first emperor of Rome was Augustus Caesar."
+    },
+    {
+      "topic": "geography",
+      "question": "What is the highest mountain in the world?",
+      "answer": "The highest mountain in the world is Mount Everest."
+    },
+    {
+      "topic": "math",
+      "question": "What is the formula for the volume of a sphere?",
+      "answer": "The formula for the volume of a sphere is V = (4/3)πr^3, where r is the radius of the sphere."
+    },
+    {
+      "topic": "physics",
+      "question": "What is the law of conservation of energy?",
+      "answer": "The law of conservation of energy states that energy cannot be created or destroyed, only transformed from one form to another."
+    },
+    {
+      "topic": "history",
+      "question": "Who wrote 'The Communist Manifesto'?",
+      "answer": " 'The Communist Manifesto' was written by Karl Marx and Friedrich Engels."
+    },
+    {
+      "topic": "geography",
+      "question": "What is the largest ocean on Earth?",
+      "answer": "The largest ocean on Earth is the Pacific Ocean."
+    },
+    {
+      "topic": "math",
+      "question": "What is the quadratic formula?",
+      "answer": "The quadratic formula is x = (-b ± √(b^2 - 4ac)) / (2a), where a, b, and c are coefficients in a quadratic equation of the form ax^2 + bx + c = 0."
+    },
+    {
+      "topic": "physics",
+      "question": "What is the definition of velocity?",
+      "answer": "Velocity is a vector quantity that refers to the rate at which an object changes its position."
+    },
+    {
+      "topic": "history",
+      "question": "What year did Christopher Columbus discover America?",
+      "answer": "Christopher Columbus discovered America in 1492."
+    },
+    {
+      "topic": "geography",
+      "question": "What is the capital of Japan?",
+      "answer": "The capital of Japan is Tokyo."
+    },
+    {
+      "topic": "math",
+      "question": "What is the formula for the perimeter of a rectangle?",
+      "answer": "The formula for the perimeter of a rectangle is P = 2(l + w), where l is the length and w is the width of the rectangle."
+    },
+    {
+      "topic": "physics",
+      "question": "What is the definition of acceleration?",
+      "answer": "Acceleration is the rate of change of velocity with respect to time."
+    },
+    {
+      "topic": "history",
+      "question": "Who was the first woman to win a Nobel Prize?",
+      "answer": "Marie Curie was the first woman to win a Nobel Prize, in Physics, in 1903."
+    },
+    {
+      "topic": "geography",
+      "question": "What is the smallest country in the world?",
+      "answer": "The smallest country in the world is Vatican City."
+    },
+    {
+      "topic": "math",
+      "question": "What is the formula for the volume of a cylinder?",
+      "answer": "The formula for the volume of a cylinder is V = πr^2h, where r is the radius of the base and h is the height of the cylinder."
+    },
+    {
+      "topic": "physics",
+      "question": "What is the definition of momentum?",
+      "answer": "Momentum is the product of an object's mass and its velocity."
+    },
+    {
+      "topic": "history",
+      "question": "Who was the first man to walk on the moon?",
+      "answer": "Neil Armstrong was the first man to walk on the moon, on July 20, 1969."
+    },
+    {
+      "topic": "geography",
+      "question": "What is the largest continent by land area?",
+      "answer": "The largest continent by land area is Asia."
+    },
+    {
+        "topic": "math",
+        "question": "What is the formula for the area of a triangle?",
+        "answer": "The formula for the area of a triangle is A = (1/2)bh, where b is the length of the base and h is the height of the triangle."
+      },
+      {
+        "topic": "physics",
+        "question": "What is the definition of work in physics?",
+        "answer": "In physics, work is defined as the product of the force applied to an object and the distance over which the force is applied in the direction of the force."
+      },
+      {
+        "topic": "history",
+        "question": "Which ancient civilization is known for building the Great Pyramid of Giza?",
+        "answer": "The ancient Egyptian civilization is known for building the Great Pyramid of Giza."
+      },
+      {
+        "topic": "geography",
+        "question": "What is the world's largest archipelago?",
+        "answer": "The world's largest archipelago is Indonesia."
+      },
+      {
+        "topic": "math",
+        "question": "What is the formula for the circumference of a circle?",
+        "answer": "The formula for the circumference of a circle is C = 2πr, where r is the radius of the circle."
+      },
+      {
+        "topic": "physics",
+        "question": "What is the definition of power?",
+        "answer": "Power is the rate at which work is done or the rate at which energy is transferred or converted."
+      },
+      {
+        "topic": "history",
+        "question": "Who was the longest-reigning British monarch?",
+        "answer": "Queen Victoria was the longest-reigning British monarch, reigning for over 63 years."
+      },
+      {
+        "topic": "geography",
+        "question": "What is the only sea without any coasts?",
+        "answer": "The Sargasso Sea is the only sea without any coasts."
+      },
+      {
+        "topic": "math",
+        "question": "What is the formula for the area of a trapezoid?",
+        "answer": "The formula for the area of a trapezoid is A = (1/2)(b1 + b2)h, where b1 and b2 are the lengths of the parallel bases and h is the height."
+      },
+      {
+        "topic": "physics",
+        "question": "What is the definition of kinetic energy?",
+        "answer": "Kinetic energy is the energy possessed by an object due to its motion."
+      },
+      {
+        "topic": "history",
+        "question": "Who was the first woman to be Prime Minister of the United Kingdom?",
+        "answer": "Margaret Thatcher was the first woman to be Prime Minister of the United Kingdom."
+      },
+      {
+        "topic": "geography",
+        "question": "What is the world's largest delta?",
+        "answer": "The world's largest delta is the Ganges-Brahmaputra Delta."
+      },
+      {
+        "topic": "math",
+        "question": "What is the formula for the volume of a cone?",
+        "answer": "The formula for the volume of a cone is V = (1/3)πr^2h, where r is the radius of the base and h is the height of the cone."
+      },
+      {
+        "topic": "physics",
+        "question": "What is the definition of potential energy?",
+        "answer": "Potential energy is the energy possessed by an object due to its position or configuration."
+      },
+      {
+        "topic": "history",
+        "question": "Who was the first President of the United States to be impeached?",
+        "answer": "Andrew Johnson was the first President of the United States to be impeached."
+      },
+      {
+        "topic": "geography",
+        "question": "What is the driest place on Earth?",
+        "answer": "The driest place on Earth is the Atacama Desert in Chile."
+      },
+      {
+        "topic": "math",
+        "question": "What is the formula for the area of a parallelogram?",
+        "answer": "The formula for the area of a parallelogram is A = bh, where b is the base and h is the height."
+      },
+      {
+        "topic": "physics",
+        "question": "What is the definition of frequency?",
+        "answer": "Frequency is the number of occurrences of a repeating event per unit of time."
+      },
+      {
+        "topic": "history",
+        "question": "Who was the longest-reigning monarch in European history?",
+        "answer": "Louis XIV of France, also known as the Sun King, was the longest-reigning monarch in European history, reigning for over 72 years."
+      },
+      {
+        "topic": "geography",
+        "question": "What is the highest waterfall in the world?",
+        "answer": "The highest waterfall in the world is Angel Falls in Venezuela."
+      },
+      {
+        "topic": "math",
+        "question": "What is the formula for the volume of a rectangular prism?",
+        "answer": "The formula for the volume of a rectangular prism is V = lwh, where l is the length, w is the width, and h is the height."
+      },
+      {
+        "topic": "physics",
+        "question": "What is the definition of electric current?",
+        "answer": "Electric current is the flow of electric charge through a conductor."
+      },
+      {
+        "topic": "biology",
+        "question": "What is the powerhouse of the cell?",
+        "answer": "The mitochondria is known as the powerhouse of the cell."
+      },
+      {
+        "topic": "literature",
+        "question": "Who wrote 'Pride and Prejudice'?",
+        "answer": "'Pride and Prejudice' was written by Jane Austen."
+      },
+      {
+        "topic": "chemistry",
+        "question": "What is the chemical symbol for gold?",
+        "answer": "The chemical symbol for gold is Au."
+      },
+      {
+        "topic": "technology",
+        "question": "What does CPU stand for?",
+        "answer": "CPU stands for Central Processing Unit."
+      },
+      {
+        "topic": "astronomy",
+        "question": "What is the closest planet to the Sun?",
+        "answer": "Mercury is the closest planet to the Sun."
+      },
+      {
+        "topic": "psychology",
+        "question": "Who is known as the father of psychoanalysis?",
+        "answer": "Sigmund Freud is known as the father of psychoanalysis."
+      },
+      {
+        "topic": "economics",
+        "question": "What is the law of supply and demand?",
+        "answer": "The law of supply and demand states that the price of a good or service is determined by the supply of and demand for that good or service."
+      },
+      {
+        "topic": "environment",
+        "question": "What is the largest rainforest in the world?",
+        "answer": "The largest rainforest in the world is the Amazon Rainforest."
+      },
+      {
+        "topic": "music",
+        "question": "Who composed 'Symphony No. 9'?",
+        "answer": "'Symphony No. 9' was composed by Ludwig van Beethoven."
+      },
+      {
+        "topic": "linguistics",
+        "question": "What is the study of the origin and history of words?",
+        "answer": "The study of the origin and history of words is called etymology."
+      },
+      {
+        "topic": "medicine",
+        "question": "What is the primary function of red blood cells?",
+        "answer": "The primary function of red blood cells is to transport oxygen to the body's tissues."
+      },
+      {
+        "topic": "architecture",
+        "question": "Who designed the Eiffel Tower?",
+        "answer": "The Eiffel Tower was designed by Gustave Eiffel."
+      },
+      {
+        "topic": "political science",
+        "question": "What is the capital of Brazil?",
+        "answer": "The capital of Brazil is Brasília."
+      },
+      {
+        "topic": "sociology",
+        "question": "What is the term for the process by which individuals and groups adapt to new cultural norms?",
+        "answer": "The process by which individuals and groups adapt to new cultural norms is called acculturation."
+      },
+      {
+        "topic": "geology",
+        "question": "What is the hardest naturally occurring substance on Earth?",
+        "answer": "The hardest naturally occurring substance on Earth is diamond."
+      },
+      {
+        "topic": "anthropology",
+        "question": "Who is known as the father of modern anthropology?",
+        "answer": "Franz Boas is known as the father of modern anthropology."
+      },
+      {
+        "topic": "botany",
+        "question": "What is the study of fungi called?",
+        "answer": "The study of fungi is called mycology."
+      },
+      {
+        "topic": "film",
+        "question": "Which film won the Academy Award for Best Picture in 2020?",
+        "answer": "The film 'Parasite' won the Academy Award for Best Picture in 2020."
+      },
+      {
+        "topic": "geography",
+        "question": "What is the highest mountain in North America?",
+        "answer": "The highest mountain in North America is Denali (formerly known as Mount McKinley)."
+      },
+      {
+        "topic": "math",
+        "question": "What is the formula for the standard deviation?",
+        "answer": "The formula for the standard deviation is the square root of the variance."
+      },
+      {
+        "topic": "biology",
+        "question": "What is the process by which green plants use sunlight to synthesize foods from carbon dioxide and water?",
+        "answer": "The process by which green plants use sunlight to synthesize foods from carbon dioxide and water is called photosynthesis."
+      },
+      {
+        "topic": "literature",
+        "question": "Who wrote 'To Kill a Mockingbird'?",
+        "answer": "'To Kill a Mockingbird' was written by Harper Lee."
+      },
+      {
+        "topic": "chemistry",
+        "question": "What is the chemical symbol for oxygen?",
+        "answer": "The chemical symbol for oxygen is O."
+      },
+      {
+        "topic": "technology",
+        "question": "What does HTML stand for?",
+        "answer": "HTML stands for HyperText Markup Language."
+      }
+    ]
+    
+  
