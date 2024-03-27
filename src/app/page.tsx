@@ -13,7 +13,7 @@ export default function Home() {
   const { register, handleSubmit } = useForm<Inputs>();
   const onSubmit: SubmitHandler<Inputs> = async (data) => {
     try {
-      const response = await axios.post('http://localhost:3000/api', {
+      const response = await axios.post('/api', {
         data: data.example
       });
       router.push('/display');

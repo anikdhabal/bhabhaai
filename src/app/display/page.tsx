@@ -11,7 +11,7 @@ export default function Display() {
   useEffect(() => {
     async function fetchData() {
       try {
-        const response = await axios.get("http://localhost:3000/api/data");
+        const response = await axios.get('api/data');
         setDatas(response.data.slice(0, 50));
       } catch (error) {
         console.error("Error fetching data:", error);
